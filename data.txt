@@ -1,0 +1,2 @@
+2024-08-30,2024-09-08,C++ course in Berlin
+2024-10-04,2024-10-10,Rust course in Dresden
